@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.widget.*
 
 class MainActivity : Activity() {
-    private val total = 25
+    private val total = 20
     private var mines = 3
     private val safe = BooleanArray(total)
     private val cells = ArrayList<Button>()
