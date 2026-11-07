@@ -21,7 +21,7 @@ class MainActivity : Activity() {
         info = TextView(this).apply { textSize = 18f }
         root.addView(info)
 
-        val size = resources.displayMetrics.widthPixels / 6
+        val size = (resources.displayMetrics.widthPixels / 5) - 8
         val grid = GridLayout(this).apply { columnCount = 5 }
         for (i in 0 until total) {
             val btn = Button(this).apply {
