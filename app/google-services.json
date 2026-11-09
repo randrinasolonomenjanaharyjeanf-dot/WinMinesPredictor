@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773353843807",
+    "project_id": "winminespredictor",
+    "storage_bucket": "winminespredictor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773353843807:android:2526ad3a476ffd55b6ffea",
+        "android_client_info": {
+          "package_name": "com.example.winminespredictor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLtNJdzhR9KQNkUESNQuDSF3sKUIoZn_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
